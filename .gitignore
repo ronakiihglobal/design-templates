@@ -5,3 +5,5 @@ live-server.js
 package-lock.json
 package.json
 tailwind.config.js
+index.html
+/images
